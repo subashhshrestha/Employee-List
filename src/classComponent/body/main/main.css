@@ -1,0 +1,11 @@
+.list-background{
+    background-color: rgb(37, 31, 31);
+    height:auto;
+    padding: 5px;
+    border-radius: 10px;
+}
+.form-background{
+    height:auto;
+    padding: 5px;
+    border-radius: 10px;  
+}

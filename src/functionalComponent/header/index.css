@@ -1,0 +1,13 @@
+.button-style{
+    display: inline-block;
+    margin: 50px;
+}
+.btn-success{
+    width:150px;
+}
+h1{
+    color: rgb(52, 195, 214);
+}
+.row{
+    margin-top: 5px;
+}
